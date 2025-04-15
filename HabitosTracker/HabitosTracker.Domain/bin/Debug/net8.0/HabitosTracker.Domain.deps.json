@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HabitosTracker.Domain/1.0.0": {
+        "runtime": {
+          "HabitosTracker.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HabitosTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\bin\Debug\net8.0\HabitosTracker.Domain.deps.json
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\bin\Debug\net8.0\HabitosTracker.Domain.dll
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\bin\Debug\net8.0\HabitosTracker.Domain.pdb
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.AssemblyInfo.cs
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.dll
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\refint\HabitosTracker.Domain.dll
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\HabitosTracker.Domain.pdb
+C:\Users\gutsk\Source\Repos\HabitosTracker\HabitosTracker.Domain\obj\Debug\net8.0\ref\HabitosTracker.Domain.dll

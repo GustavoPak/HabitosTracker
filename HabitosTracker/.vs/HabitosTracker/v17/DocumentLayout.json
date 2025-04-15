@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\entities\\habito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\entities\\habito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\entities\\habitocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\entities\\habitocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|c:\\users\\gutsk\\documents\\area de estudo\\habitostracker\\habitostracker\\habitostracker.domain\\habitostracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFF00B19-0203-403C-8438-A674EC8F5903}|HabitosTracker.Domain\\HabitosTracker.Domain.csproj|solutionrelative:habitostracker.domain\\habitostracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "HabitosTracker.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:36:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "HabitosTracker.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:36:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitosTracker.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\HabitosTracker.Domain.csproj",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\HabitosTracker.Domain.csproj",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\HabitosTracker.Domain.csproj",
+              "RelativeToolTip": "HabitosTracker.Domain\\HabitosTracker.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T17:24:07.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitoCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\HabitoCompleto.cs",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\Entities\\HabitoCompleto.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\HabitoCompleto.cs",
+              "RelativeToolTip": "HabitosTracker.Domain\\Entities\\HabitoCompleto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:14:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Habito.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Habito.cs",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\Entities\\Habito.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Habito.cs",
+              "RelativeToolTip": "HabitosTracker.Domain\\Entities\\Habito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:11:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "HabitosTracker.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gutsk\\Documents\\Area de estudo\\HabitosTracker\\HabitosTracker\\HabitosTracker.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "HabitosTracker.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:08:14.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
